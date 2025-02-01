@@ -18,7 +18,10 @@ Console.WriteLine("Original Data: " + dataToEncrypt);
             
 
 // Encrypt data using AES and RSA
-string publicKeyPathPub = @"C:\PrivateRepos\Playground\AESRSAEncrypterCore\mdes-public_key.pub";
+string currentDirectory = Directory.GetCurrentDirectory();
+Console.WriteLine($"current directory: {currentDirectory}");
+
+string publicKeyPathPub = $"{currentDirectory}/mdes-public_key.pub";
 var (encryptedData, encryptedAesKey, iv) = AesRsaEncryptionMdes.EncryptData(dataToEncrypt, publicKeyPathPub);
 
 // Decrypt the data

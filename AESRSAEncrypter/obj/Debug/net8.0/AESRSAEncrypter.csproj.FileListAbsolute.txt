@@ -13,3 +13,4 @@
 /workspaces/Playground/AESRSAEncrypter/obj/Debug/net8.0/AESRSAEncrypter.pdb
 /workspaces/Playground/AESRSAEncrypter/obj/Debug/net8.0/AESRSAEncrypter.genruntimeconfig.cache
 /workspaces/Playground/AESRSAEncrypter/obj/Debug/net8.0/ref/AESRSAEncrypter.dll
+/workspaces/Playground/AESRSAEncrypter/bin/Debug/net8.0/mdes-public_key.pub
