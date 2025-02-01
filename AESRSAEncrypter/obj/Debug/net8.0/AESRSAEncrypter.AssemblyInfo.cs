@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AESRSAEncrypter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6d78dee0a1e366e4bd479954d03db3dc007868b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+332df0cadd8362fba6b89924cbcdec197dfd55b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("AESRSAEncrypter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AESRSAEncrypter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
